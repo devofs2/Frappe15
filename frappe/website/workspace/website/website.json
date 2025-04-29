@@ -1,0 +1,383 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"0OlEJ68Tgh\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Your Shortcuts</b></span>\",\"col\":12}},{\"id\":\"CV865vBVgo\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Blog Post\",\"col\":3}},{\"id\":\"T1Eui5EdV_\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Blogger\",\"col\":3}},{\"id\":\"4JebNu55lr\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Web Page\",\"col\":3}},{\"id\":\"hev4ihLoBp\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Web Form\",\"col\":3}},{\"id\":\"r8ojVsAMn9\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Website Settings\",\"col\":3}},{\"id\":\"YEWkNeCR0A\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"M0OCByNrwo\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\"><b>Reports &amp; Masters</b></span>\",\"col\":12}},{\"id\":\"2wAdvUy2OE\",\"type\":\"card\",\"data\":{\"card_name\":\"Configuration\",\"col\":4}},{\"id\":\"x8pGR7f6ip\",\"type\":\"card\",\"data\":{\"card_name\":\"Blog\",\"col\":4}},{\"id\":\"wlFHTxuAkz\",\"type\":\"card\",\"data\":{\"card_name\":\"Web Site\",\"col\":4}},{\"id\":\"Mrwl07YfOR\",\"type\":\"card\",\"data\":{\"card_name\":\"Portal\",\"col\":4}},{\"id\":\"QJ4vKlWZyV\",\"type\":\"card\",\"data\":{\"card_name\":\"Base de Connaissances\",\"col\":4}}]",
+ "creation": "2020-03-02 14:13:51.089373",
+ "custom_blocks": [],
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "website",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "Website",
+ "links": [
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Settings",
+   "link_count": 0,
+   "link_to": "Website Settings",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Theme",
+   "link_count": 0,
+   "link_to": "Website Theme",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Script",
+   "link_count": 0,
+   "link_to": "Website Script",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "About Us Settings",
+   "link_count": 0,
+   "link_to": "About Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Contact Us Settings",
+   "link_count": 0,
+   "link_to": "Contact Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "icon": "",
+   "is_query_report": 0,
+   "label": "Blog",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Blog Post",
+   "link_count": 0,
+   "link_to": "Blog Post",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Blogger",
+   "link_count": 0,
+   "link_to": "Blogger",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Blog Category",
+   "link_count": 0,
+   "link_to": "Blog Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "icon": "website",
+   "is_query_report": 0,
+   "label": "Web Site",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Web Page",
+   "link_count": 0,
+   "link_to": "Web Page",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Web Form",
+   "link_count": 0,
+   "link_to": "Web Form",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Sidebar",
+   "link_count": 0,
+   "link_to": "Website Sidebar",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Slideshow",
+   "link_count": 0,
+   "link_to": "Website Slideshow",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Website Route Meta",
+   "link_count": 0,
+   "link_to": "Website Route Meta",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "icon": "website",
+   "is_query_report": 0,
+   "label": "Portal",
+   "link_count": 0,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Portal Settings",
+   "link_count": 0,
+   "link_to": "Portal Settings",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Help Category",
+   "link_count": 0,
+   "link_to": "Help Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Help Article",
+   "link_count": 0,
+   "link_to": "Help Article",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Configuration",
+   "link_count": 6,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Param\u00e8tres du Site web",
+   "link_count": 0,
+   "link_to": "Website Settings",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Th\u00e8me du Site Web",
+   "link_count": 0,
+   "link_to": "Website Theme",
+   "link_type": "DocType",
+   "onboard": 1,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Script du Site web",
+   "link_count": 0,
+   "link_to": "Website Script",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Param\u00e9trages \u00c0 Propos",
+   "link_count": 0,
+   "link_to": "About Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Param\u00e8tres du Formulaire de Contact",
+   "link_count": 0,
+   "link_to": "Contact Us Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Page d'accueil",
+   "link_count": 0,
+   "link_to": "Homepage",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Base de Connaissances",
+   "link_count": 3,
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Cat\u00e9gorie d\u2019Aide",
+   "link_count": 0,
+   "link_to": "Help Category",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "dependencies": "",
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Article d\u2019Aide",
+   "link_count": 0,
+   "link_to": "Help Article",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Param\u00e8tres du module Assistance",
+   "link_count": 0,
+   "link_to": "Support Settings",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2025-03-21 08:07:52.503969",
+ "modified_by": "olade.affoyon@ofs.bj",
+ "module": "Website",
+ "name": "Website",
+ "number_cards": [],
+ "owner": "Administrator",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "restrict_to_domain": "",
+ "roles": [],
+ "sequence_id": 34.0,
+ "shortcuts": [
+  {
+   "color": "Green",
+   "format": "{} Published",
+   "label": "Blog Post",
+   "link_to": "Blog Post",
+   "stats_filter": "{\"published\":\"1\"}",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "format": "{} Active",
+   "label": "Blogger",
+   "link_to": "Blogger",
+   "stats_filter": "{\"disabled\": 0}",
+   "type": "DocType"
+  },
+  {
+   "color": "Green",
+   "format": "{} Published",
+   "label": "Web Page",
+   "link_to": "Web Page",
+   "stats_filter": "{ \"published\": 1 }",
+   "type": "DocType"
+  },
+  {
+   "label": "Web Form",
+   "link_to": "Web Form",
+   "type": "DocType"
+  },
+  {
+   "label": "Website Settings",
+   "link_to": "Website Settings",
+   "type": "DocType"
+  }
+ ],
+ "title": "Website"
+}
